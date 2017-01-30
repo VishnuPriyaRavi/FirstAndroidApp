@@ -1,0 +1,17 @@
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/bin/Debug/FirstAndroidApp.dll.mdb
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/bin/Debug/FirstAndroidApp.dll
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/bin/Debug/com.companyname.first_android_app.apk
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/android/bin/com.companyname.first_android_app.apk
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/res/layout/main.xml
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/res/values/strings.xml
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/R.cs.flag
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/bin/Debug/com.companyname.first_android_app-Signed.apk
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/uploadflags.txt
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/FirstAndroidApp.dll
+/Users/Shared/Jenkins/Home/workspace/FirstAndroidApp/FirstAndroidApp/obj/Debug/FirstAndroidApp.dll.mdb

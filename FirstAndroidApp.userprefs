@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{0977F3E7-9931-4B8A-92E3-18B26A6D927B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstAndroidApp/MainActivity.cs">
+    <Files>
+      <File FileName="FirstAndroidApp/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstAndroidApp PreferredExecutionTarget="Android.Emulator" />
+</Properties>
